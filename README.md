@@ -1,6 +1,6 @@
 A student who is currently studying computer science.
 
-A noob programmer who cannot program cuz I have almost zero knowledge of any field.
+A noob programmer who cannot program or make anything.
 
 
 <!---
