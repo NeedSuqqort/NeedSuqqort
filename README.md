@@ -1,6 +1,6 @@
 A student who is currently studying computer science.
 
-A noob programmer who is now learning lots of stuff (Unity, Blender, web programming, etc.)
+A noob programmer who is now learning lots of stuff (Unity, Blender, web programming, etc.) on YouTube.
 
 
 <!---
