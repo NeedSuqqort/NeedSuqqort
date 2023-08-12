@@ -2,6 +2,8 @@ A student who is currently studying computer science.
 
 A noob programmer who is now learning lots of stuff (Unity, Blender, web programming, etc.) on YouTube.
 
+My LeetCode profile (I practise coding there): https://leetcode.com/NeedSupport/
+
 
 <!---
 NeedSuqqort/NeedSuqqort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
