@@ -1,8 +1,8 @@
-A year 3 student who is currently studying computer science.
+Year 3 Computer Science student
 
-My LeetCode profile (I practice Python and C++ there): https://leetcode.com/NeedSupport/
+My LeetCode profile (I practice data structure and algorithms there): https://leetcode.com/NeedSupport/
 
-Interested topics: DSA, JS/Node.js/React (currently self-learning), Games
+Interested topics: DSA, JS/Node.js/React/Next (currently self-learning), Games
 
 Javascript gives me anxiety.
 
