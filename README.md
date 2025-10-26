@@ -1,6 +1,6 @@
-Year 4 Computer Science student (Graduating in June 2025)
+Computer Science student
 
-My LeetCode profile (I practice data structure and algorithms there): https://leetcode.com/NeedSupport/
+My LeetCode profile (I practise data structure and algorithms there): https://leetcode.com/NeedSupport/
 
 Programming Languages: Python/C/C++/Java, some experience on GraphQL 
 
