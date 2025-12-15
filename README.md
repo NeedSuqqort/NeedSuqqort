@@ -1,10 +1,21 @@
-Computer Science student
+### Welcome to my personal space~ 👋
+* Name: Oscar Law
+* In-game-name: NeedSuqqort
+* Education: Bachelor in Computer Science with extended major in AI
+* Currently learning: SQL, Docker, Golang
+* Previous Experience:
+  * Frontend Developer Intern (4 months)
+  * Graduate Trainee in telecommunications industry
+* Hobbies: Games, Anime, Swimming
+* Fun fact: Sometimes I do coding on https://leetcode.com/NeedSupport/ to pratice my DSA skills
 
-My LeetCode profile (I practise data structure and algorithms there): https://leetcode.com/NeedSupport/
+```python
+class Goal:
+    def __init__(self,goal):
+      self.goal = goal
 
-Interested topics: Data structure and algorithms, JS/Node.js/React/Next(currently self-learning), Machine Learning, Games
-
-Sometimes I like writing small programs and playing with AI tools for fun.
+current_goals = Goal("Learning new tech stack and building automation tools to help people & myself while having fun.")
+```
 
 <h2>Tools I have learned/used</h2>
 <p>
