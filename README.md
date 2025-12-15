@@ -14,7 +14,7 @@ class Goal:
     def __init__(self,goal):
       self.goal = goal
 
-current_goals = Goal("Learning new tech stack and building automation tools to help people & myself while having fun.")
+current_goals = Goal("Learning new tech stack and building cool stuff to help people & myself while having fun.")
 ```
 
 <h2>Tools I have learned/used</h2>
