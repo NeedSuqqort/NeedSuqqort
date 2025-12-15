@@ -2,7 +2,7 @@
 * Name: Oscar Law
 * In-game-name: NeedSuqqort
 * Education: Bachelor in Computer Science with extended major in AI
-* Currently learning: SQL, Docker, Golang
+* Currently learning: SQL, Docker
 * Previous Experience:
   * Frontend Developer Intern (4 months)
   * Graduate Trainee in telecommunications industry
